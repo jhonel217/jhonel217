@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="stylesheet" href="styles.css"> 
+     <script defer src="script.js">
+</script> 
+<title>My Website with Audio and Lyrics</title>
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background-color: khaki; 
+    margin: 0;
+    padding: 0;
+}
+
+.audio-section {
+    margin-top: 50px;
+    text-align: center;
+}
+
+.lyrics-section {
+    padding: 20px;
+}
+
+.lyrics-container {
+    background-color: #fff5; 
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+    padding: 20px;
+    margin: auto;
+    max-width: 600px;
+}
+
+h1, h2 {
+    color: #333; /* Dark text color */
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 15px;
+    line-height: 1.6;
+}
+
+audio {
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+}
+</style>
+
+<center>
+<h2><i><marquee>Grateful Song by NEFFEX</marquee></i></h2>
+</center>
+<center>
+<img src="/storage/emulated/0/2QM3-SOMIDO/IMG_20240318_214237.jpg"alt="" width="300"height="200">
+</center>
+<center>
+<section class="audio-section">
+<audio controls> 
+<source src="/storage/emulated/0/2QM3-SOMIDO/NEFFEX - Grateful [Copyright Free] No.54.mp3" type="audio/mp3">
+
+Your browser does not support the audio element. 
+</center>
+</audio> 
+</section>
+<body>
+<section class="lyrics-section">
+<div class="lyrics-container">
+<ul>
+<center>
+<h2>Grateful Lyrics</h2>
+</center>
+<center>
+<h4>
+[Intro]
+</h4>
+</center>
+<center>
+<br>
+Always do it on my own, so, I gotta get through it
+And the only thing I know is to love what I'm doing
+Never give up, never slow 'til I finally prove it
+Never listen to the no's, I just wanna keep moving
+</center>
+</br>
+<center>
+<h4>
+[Verse 1]
+</h4>
+</center>
+<center>
+<br>
+Keep my head up when I act, head up, that's a fact
+Never looking back, I'ma keep myself on track
+Keep my head up, staying strong, always moving on
+Feel I don't belong, tell my thoughts to move along
+Push myself to be the best, die with no regrets
+Live with every breath, see my message start to spread
+And I have so many dreams then you hit your teens
+Life ain't really what it seems, try to find out what it means
+</center>
+</br>
+<center>
+<h4>
+[Chorus]
+</h4>
+</center>
+<center>
+<br>
+(Yeah, yeah, yeah)
+Always do it on my own, so, I gotta get through it
+And the only thing I know is to love what I'm doing
+Never give up, never slow 'til I finally prove it
+Never listen to the no's, I just wanna keep moving
+Yeah, I put out all this art, it's my only medicine, yeah
+Everything I do, I'm just being genuine, yeah
+I'm sick of being screwed, feel my own adrenaline
+Yeah, I do just what I do and I hope you let me in, let me in, yeah
+</center>
+</br>
+<center>
+<h4>
+[Drop]
+</h4>
+</center>
+<center>
+<br>
+I'm grateful, oh, yeah, able, oh, yeah
+I'm stable, oh, yeah, no label, oh, yeah
+You know me, I have only a path
+I'm lonely, but, damn, I'm going to win, yeah
+</center>
+</br>
+<center>
+<h4>
+[Verse 2]
+</h4>
+</center>
+<center>
+<br>
+I don't want no fake love, I want the real stuff
+Everybody listen up 'cause I'll only say it once
+I'm gon' show you all the path if you want it bad
+I'm gon' show you where it's at
+Yeah, how you can get it back, yeah
+'Cause I ain't never done, I'll be number one
+Working hella hard until I get just what I want, yeah
+Rise just like the sun, yeah, fatal like a gun
+Shooters gonna shoot and I'm gon' shoot until I've won, yeah
+</center>
+</br>
+<center>
+<h4>
+[Chorus]
+</h4>
+</center>
+<center>
+<br>
+(Yeah, yeah, yeah)
+Always do it on my own, so, I gotta get through it
+And the only thing I know is to love what I'm doing
+Never give up, never slow 'til I finally prove it
+Never listen to the no's, I just wanna keep moving
+Yeah, I put out all this art, it's my only medicine, yeah
+Everything I do, I'm just being genuine, yeah
+I'm sick of being screwed, feel my own adrenaline
+Yeah, I do just what I do and I hope you let me in, let me in, yeah
+</center>
+</br>
+<center>
+<h4>
+[Drop]
+</h4>
+</center>
+<center>
+<br>
+I'm grateful, oh, yeah, able, oh, yeah
+I'm stable, oh, yeah, no label, oh, yeah
+You know me, I have only a path
+I'm lonely, but, damn, I'm going to win, yeah (Yeah)
+</center>
+</br>
+</ul>
+</div>
+</section>
+</body>
+</html>
